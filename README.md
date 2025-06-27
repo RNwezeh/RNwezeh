@@ -28,20 +28,14 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| **SmartFlow** | A web-based dashboard to automate internal requests & approval workflows for SMEs. | React, Tailwind CSS, Firebase |
-| **QuickCart UI** | A responsive e-commerce product UI with smooth animations and dynamic filters. | HTML, SCSS, JavaScript |
-| **BizTrackr** | A mobile-first app prototype that allows small business owners to track tasks, inventory, and schedules. | Figma, React Native |
 | **My Portfolio** | My professional portfolio website, built from scratch and constantly evolving. | HTML, CSS, JavaScript |
 
 ---
 
 ### 🧠 Currently Learning
 
-- 📲 Mobile-First Design Principles
-- 🧩 Component-Based Architecture in React
 - 🎨 UI/UX Wireframing (Figma)
-- 🌐 Deployment via GitHub Pages & Vercel
-- 🔄 API Integration & State Management
+- 🌐 Version Control, Git & GitHub
 
 ---
 
